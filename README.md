@@ -1,6 +1,6 @@
 ## CheckMyGrade (DATA 200 - Lab 1)
 
-Strict, testable, object-oriented Python implementation with CSV persistence,
+testable, object-oriented Python implementation with CSV persistence,
 reversible demo-grade password encryption, search/sort timings, statistics, and CLI.
 
 Important: The included password encryption is for demonstration only and is NOT secure.
@@ -36,7 +36,3 @@ python -m unittest -v
 - `checkmygrade/cli.py`: Console UI
 - `main.py`: Entry point
 - `tests/test_app.py`: Unit tests (incl. 1000-record scenarios)
-
-### Academic Integrity
-- This code is original and written for this assignment specification.
-- If you reuse any part, cite appropriately; plagiarism tolerance is 0%.
